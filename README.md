@@ -8,7 +8,7 @@ This project demonstrates the use of Network Security Groups (NSGs) in Microsoft
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://youtu.be/hFMQYR5wpyQ)
+- ### [YouTube: How to Block ICMP Traffic in Azure Using Network Security Groups (Firewall)](https://www.youtube.com/watch?v=n0Dg1fwFn7w)
 
 <h2>Environments and Technologies Used</h2>
 
